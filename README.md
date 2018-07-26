@@ -71,7 +71,3 @@ Edit `tdadmin/CMakeFiles/tdadmin.dir/link.txt` and att the end of the line, add
 ### Step 9 - Install
 
     make install
-
-### Step 10 - Run ldconfig
-
-    ldconfig
