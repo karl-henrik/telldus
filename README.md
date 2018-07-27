@@ -13,7 +13,7 @@ Below is the steps we followed to make it work. Good luck!
 ## Ubuntu 18.04 LTS (Bionic Beaver)
 
 ### Step 1 - Install prereqs
-> apt-get install build-essential libftdi1 libftdi-dev libconfuse-common libconfuse-dev libconfuse2 cmake pkg-config
+    apt-get install build-essential libftdi1 libftdi-dev libconfuse-common libconfuse-dev libconfuse2 cmake pkg-config
 
 ### Step 2 - Download latest telldus core from Telldus
 
