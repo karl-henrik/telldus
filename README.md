@@ -15,6 +15,8 @@ Below is the steps we followed to make it work. Good luck!
 ### Step 1 - Install prereqs
     apt-get install build-essential libftdi1 libftdi-dev libconfuse-common libconfuse-dev libconfuse2 cmake pkg-config
 
+Note: On Debian 9 (latest as of 2018-07-31), change libconfuse2 to libfconfuse1.
+
 ### Step 2 - Download latest telldus core from Telldus
 
     mkdir /tmp/telldus
